@@ -3,4 +3,4 @@ Flask
 gunicorn
 requests
 country-list==0.1.5
-https://spacy.io/models/en#en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
