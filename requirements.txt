@@ -3,3 +3,4 @@ Flask
 gunicorn
 requests
 country-list==0.1.5
+-e https://spacy.io/models/en#en_core_web_sm

@@ -3,8 +3,8 @@ from ml_models import app, logger as LOG
 import spacy
 from flask import jsonify
 
-# nlp = spacy.load("en_core_web_sm")
-nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en_core_web_sm")
+# nlp = spacy.load("en_core_web_md")
 
 
 @app.route("/entities/<string:sentence>", methods=['GET'])
