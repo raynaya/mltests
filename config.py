@@ -1,0 +1,3 @@
+LOG_MAX_HISTORY = 3
+LOG_LEVEL = "ERROR"
+LOG_FILE_PATH = "ml.log"
